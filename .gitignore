@@ -951,9 +951,4 @@ TSWLatexianTemp*
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
 .glide/
 
-.gitignore
-aws.iml
-create_s3_bucket.json
-create_s3_bucket.sh
-data/
 hadoopKeyPair.pem
