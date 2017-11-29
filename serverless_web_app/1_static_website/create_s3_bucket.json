@@ -1,11 +1,8 @@
 {
     "ACL": "public-read-write",
     "Bucket": "treasure-app-bucket",
-    "CreateBucketConfiguration": {
-        "LocationConstraint": "us-west-2"
-    },
     "GrantFullControl": "",
-    "GrantRead": "",
+    "GrantRead": "*",
     "GrantReadACP": "",
     "GrantWrite": "",
     "GrantWriteACP": ""
